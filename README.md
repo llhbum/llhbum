@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   
 </div>
 
-##👋 Hi there My name is Hyo Beom Lee
+### 👋 Hi there My name is Hyo Beom Lee
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/llhbum)](https://blog.naver.com/llhbum/) 
 
 
