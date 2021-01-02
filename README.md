@@ -22,19 +22,22 @@ Here are some ideas to get you started:
   
 </div>
 
+##👋 Hi there My name is Hyo Beom Lee
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/llhbum)](https://blog.naver.com/llhbum/) 
+
+
+- 💻 Junior Developers Interested in Web Server
+- 🌱 I’m currently learning Spring Framework and JavaScript
+- 📝 I mainly use Java and SpringFramework, and I am interested in new technology.
+- 🌈 My dream is ...
+
+
 **Languages and Tools**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
-### BackEnd Developer
-- 
-- 
 
-### Interest
-- 
--
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/llhbum)](https://blog.naver.com/llhbum/) 
 
