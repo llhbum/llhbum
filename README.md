@@ -15,9 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--일 방문자수/총 방문자수 -->
 <div align=center>
   
 🌱[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllhbum)](https://hits.seeyoufarm.com) 
   
 </div>
+
+### BackEnd Developer
+- 
+- 
+
+### Interest
+- 
+-
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
 
