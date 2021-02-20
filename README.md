@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 💻 Junior Developers Interested in Web Server
 - 🌱 I’m currently learning Spring Framework and JavaScript
 - 📝 I mainly use Java and SpringFramework, and I am interested in new technology.
-- 🌈 My dream is ...
+- 🌈 1주 6커밋 도전중...
 
 
 **Languages and Tools**  
