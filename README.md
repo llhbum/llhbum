@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there,  My name is Hyo Beom Lee
 
-[![Naver Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=naver&link=https://blog.naver.com/llhbum)](https://blog.naver.com/llhbum)
+// [![Naver Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=naver&link=https://blog.naver.com/llhbum)](https://blog.naver.com/llhbum)
 
 
 - 💻 Junior Developers Interested in Web Server
